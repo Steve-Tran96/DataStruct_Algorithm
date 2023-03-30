@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1680144234 source:g:\c\test\storage_class\algorithm\algorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1680144193 source:g:\c\test\storage_class\algorithm\algorithm\data_algorithm.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
